@@ -1,48 +1,33 @@
-# Project Name
-> Outline a brief description of your project.
+# BikeSharingRegression Model
+> Project contains a juypter file implementing EDA on the Bike Sharing dataset.
+  File consists of creating a models and evaluating the model by inferencing the model.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* EDA, Modelling and Evaluation on BikeSharing
+* Jupyter , python, sklearn, statsmodels, matplotlib, seaborn
+* Acheving 79% testing accuracy
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- The purpose of the analysis and modelling is to analyize the Bike Sharing data and the factors impacting the bike rentals , 
+  and to create an generic model which can forecast the bike rentals based on the independent values provided.
+  
+- DataSet provided in the repo as csv file (day.csv)
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Seasons (or month of the year) and weather conditions impacts the bike rentals in both positive and negative way.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- seaborn
+- matplotlib
+- python - 3.6.9
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@SumitRana] - feel free to contact me!
 
 
 <!-- Optional -->
